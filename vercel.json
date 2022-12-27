@@ -6,11 +6,6 @@
             "use":"@version/1.0.0"
             
         }
-    ],
-    "routes":[
-        {
-            "src":"/.*",
-            "dest":"index.js"
-        }
     ]
+   
 }
