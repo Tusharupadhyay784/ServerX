@@ -3,7 +3,7 @@
     "builds":[
         {
             "src":"./index.js",
-            "use":"@version/1.0.0"
+            "use":"@version/16.17.0"
             
         }
     ]
